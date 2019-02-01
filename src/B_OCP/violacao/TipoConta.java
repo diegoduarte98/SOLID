@@ -1,4 +1,7 @@
 package B_OCP.violacao;
 
-public class TipoConta {
+public enum TipoConta {
+
+    CORRENTE,
+    POUPANCA;
 }
